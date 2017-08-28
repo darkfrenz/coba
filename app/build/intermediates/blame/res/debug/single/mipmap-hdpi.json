@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_camera_enhance_white_48dp.png",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_camera_enhance_white_48dp.png"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

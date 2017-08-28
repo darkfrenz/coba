@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/act_myvg_header" />
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/act_myvg_header_button" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:text="My Account"
+            android:textColor="@color/colorWhite"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/FullName"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:hint="Nama Lengkap"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/btnlogin"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+
+
+    <TextView
+        android:id="@+id/Email"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:hint="Email"/>
+
+    <TextView
+        android:id="@+id/NoHp"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:hint="No Hp"/>
+
+    <TextView
+        android:id="@+id/Region"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:hint="Region"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Saldo: Rp."
+        android:textColor="@color/btnlogin"
+        android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/Saldo"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:hint="2000"
+            android:textColor="@color/btnlogin"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+
+    <ImageView
+
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/btnlogin"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="4"
+        android:orientation="vertical"
+        android:background="#D8D8D8"
+        >
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Change Laguage"
+            android:gravity="center|left"
+            android:layout_marginLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Term of Service"
+            android:gravity="center|left"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="#A4A4A4"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Privacy Policy"
+            android:gravity="center|left"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Rate My VG"
+            android:gravity="center|left"/>
+        
+    </LinearLayout>
+
+
+
+</LinearLayout>

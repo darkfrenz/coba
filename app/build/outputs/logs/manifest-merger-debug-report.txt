@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:2:1-78:12
+	package
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:8:22-77
+application
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:10:5-76:19
+MERGED from [com.android.support:design:25.3.0] C:\Users\vwx\.android\build-cache\84975755bca7b6ea00b2002d8dfc4624695849c6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\vwx\.android\build-cache\61b6432c1331a6629d5324e204be83c7c3946d2e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\vwx\.android\build-cache\46581a851414d5fd9b881ce59995e54c12b766c2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\vwx\.android\build-cache\a575fcf0b16520612a3b2ea789ca5708657f5d71\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\vwx\.android\build-cache\c280bc89d78e76f8ae5ae9f0acde667adebb82cb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\vwx\.android\build-cache\e08ee7ee6750f546e22292a552bc6578fb0cd751\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\vwx\.android\build-cache\33b5ea3e7f45eef3d13585ad98c42327c59f55aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\vwx\.android\build-cache\2a967ea3dfba5e9eb2302623097e746271385d23\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\vwx\.android\build-cache\9e5521726e3eca28ebac3f2a0bfbec3b35f8e232\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\vwx\.android\build-cache\f58770666b59643dc487212ecec3faeeaf8846f1\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\vwx\.android\build-cache\478e8f4aa9f3086eeb17f7fc94b9ca9473abae6c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\vwx\.android\build-cache\c56e2375da392587689e73a000e74bcd1e2b619f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\vwx\.android\build-cache\4d109e8419643581c446b22699981e34aee50e9e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\vwx\.android\build-cache\82481e9ac2e41c7859931dd87f9795cf9a432a85\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:11:9-62
+activity#org.i_smartway.myvg.LoginActivity
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:20:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:25:27-74
+activity#org.i_smartway.myvg.LoginHomeActivity
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:29:9-33:20
+	android:screenOrientation
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:30:13-65
+activity#org.i_smartway.myvg.LoginRegisterActivity
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:screenOrientation
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:37:13-45
+	android:parentActivityName
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:38:13-75
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:36:13-69
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:40:13-42:69
+	android:value
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:42:17-66
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:41:17-63
+activity#org.i_smartway.myvg.LoginEmailVerify
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:45:9-53:20
+	android:screenOrientation
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:47:13-45
+	android:parentActivityName
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:48:13-75
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:46:13-64
+activity#org.i_smartway.myvg.LoginAccount
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:55:9-68
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:55:19-66
+activity#org.i_smartway.myvg.LoginMyVg
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:56:9-65
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:56:19-63
+activity#org.i_smartway.myvg.ActivityLogin
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:61:9-63:65
+	android:label
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:63:13-62
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:62:13-42
+activity#org.i_smartway.myvg.ActivityRegister
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:64:9-54
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:64:19-51
+activity#org.i_smartway.myvg.ActivityHomeSidebar
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:65:9-57
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:65:19-54
+activity#org.i_smartway.myvg.ActivityAccount
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:66:9-53
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:66:19-50
+activity#org.i_smartway.myvg.ActivityMyVG
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:67:9-50
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:67:19-47
+activity#org.i_smartway.myvg.ActivityVgVacation
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:68:9-56
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:68:19-53
+activity#org.i_smartway.myvg.Indonesia.Aceh
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:69:9-52
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:69:19-49
+activity#org.i_smartway.myvg.SumateraBarat
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:70:9-51
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:70:19-48
+activity#org.i_smartway.myvg.SumateraUtara
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:71:9-51
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:71:19-48
+activity#org.i_smartway.myvg.VacationMainActivity
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:72:9-57
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:72:19-55
+activity#org.i_smartway.myvg.VacationCounterPesanan
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:73:9-59
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:73:19-57
+activity#org.i_smartway.myvg.ActivityTopUpSaldo
+ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:74:9-65
+	android:name
+		ADDED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml:74:19-53
+uses-sdk
+INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.0] C:\Users\vwx\.android\build-cache\84975755bca7b6ea00b2002d8dfc4624695849c6\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\vwx\.android\build-cache\61b6432c1331a6629d5324e204be83c7c3946d2e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\vwx\.android\build-cache\46581a851414d5fd9b881ce59995e54c12b766c2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\vwx\.android\build-cache\a575fcf0b16520612a3b2ea789ca5708657f5d71\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] C:\Users\vwx\.android\build-cache\c280bc89d78e76f8ae5ae9f0acde667adebb82cb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\vwx\.android\build-cache\e08ee7ee6750f546e22292a552bc6578fb0cd751\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\vwx\.android\build-cache\33b5ea3e7f45eef3d13585ad98c42327c59f55aa\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\vwx\.android\build-cache\2a967ea3dfba5e9eb2302623097e746271385d23\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\vwx\.android\build-cache\9e5521726e3eca28ebac3f2a0bfbec3b35f8e232\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\vwx\.android\build-cache\f58770666b59643dc487212ecec3faeeaf8846f1\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\vwx\.android\build-cache\2d74d1996d857a7a8463fc21cdc17ca2dd3b488f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\vwx\.android\build-cache\478e8f4aa9f3086eeb17f7fc94b9ca9473abae6c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\vwx\.android\build-cache\c56e2375da392587689e73a000e74bcd1e2b619f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\vwx\.android\build-cache\4d109e8419643581c446b22699981e34aee50e9e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\vwx\.android\build-cache\82481e9ac2e41c7859931dd87f9795cf9a432a85\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] C:\Users\vwx\.android\build-cache\84975755bca7b6ea00b2002d8dfc4624695849c6\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidFix\Android-Login-And-Registration-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] C:\Users\vwx\.android\build-cache\84975755bca7b6ea00b2002d8dfc4624695849c6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\vwx\.android\build-cache\61b6432c1331a6629d5324e204be83c7c3946d2e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\vwx\.android\build-cache\46581a851414d5fd9b881ce59995e54c12b766c2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\vwx\.android\build-cache\a575fcf0b16520612a3b2ea789ca5708657f5d71\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\vwx\.android\build-cache\c280bc89d78e76f8ae5ae9f0acde667adebb82cb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\vwx\.android\build-cache\e08ee7ee6750f546e22292a552bc6578fb0cd751\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\vwx\.android\build-cache\33b5ea3e7f45eef3d13585ad98c42327c59f55aa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\vwx\.android\build-cache\2a967ea3dfba5e9eb2302623097e746271385d23\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\vwx\.android\build-cache\9e5521726e3eca28ebac3f2a0bfbec3b35f8e232\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\vwx\.android\build-cache\2d74d1996d857a7a8463fc21cdc17ca2dd3b488f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\vwx\.android\build-cache\478e8f4aa9f3086eeb17f7fc94b9ca9473abae6c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\vwx\.android\build-cache\c56e2375da392587689e73a000e74bcd1e2b619f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\vwx\.android\build-cache\4d109e8419643581c446b22699981e34aee50e9e\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] C:\Users\vwx\.android\build-cache\84975755bca7b6ea00b2002d8dfc4624695849c6\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] C:\Users\vwx\.android\build-cache\84975755bca7b6ea00b2002d8dfc4624695849c6\output\AndroidManifest.xml:26:9-47

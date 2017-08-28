@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\vwx\\.android\\build-cache\\61b6432c1331a6629d5324e204be83c7c3946d2e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\vwx\\.android\\build-cache\\61b6432c1331a6629d5324e204be83c7c3946d2e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\vwx\\.android\\build-cache\\61b6432c1331a6629d5324e204be83c7c3946d2e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\vwx\\.android\\build-cache\\61b6432c1331a6629d5324e204be83c7c3946d2e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

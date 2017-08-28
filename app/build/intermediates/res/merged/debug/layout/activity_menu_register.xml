@@ -1,0 +1,222 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backgroundregister"
+    tools:context=".ActivityRegister">
+
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="70dp"
+        android:text="MY VG"
+        android:layout_marginBottom="20dp"/>
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:textSize="15dp"
+        android:layout_width="230dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:background="@color/loginuser"
+        android:drawableLeft="@drawable/ic_asset_username"
+        android:drawablePadding="20dp"
+        android:drawableStart="@drawable/ic_asset_username"
+        android:hint="Full Name"
+        android:paddingLeft="15dp"
+        android:textColorHint="@color/colorBackground" />
+
+    <EditText
+        android:textSize="15dp"
+        android:layout_width="230dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="@color/loginuser"
+        android:drawableLeft="@drawable/ic_asset_username"
+        android:drawablePadding="20dp"
+        android:drawableStart="@drawable/ic_asset_username"
+        android:hint="Email Address"
+        android:textColorHint="@color/colorBackground"
+        android:paddingLeft="15dp"
+        android:inputType="textEmailAddress"
+        android:id="@+id/editTextEmail" />
+
+    <EditText
+        android:textSize="15dp"
+        android:layout_width="230dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="@color/loginuser"
+        android:drawableLeft="@drawable/ic_asset_username"
+        android:drawablePadding="20dp"
+        android:drawableStart="@drawable/ic_asset_username"
+        android:hint="Username"
+        android:textColorHint="@color/colorBackground"
+        android:paddingLeft="15dp"
+        android:id="@+id/editTextUserName" />
+
+    <EditText
+        android:textSize="15dp"
+        android:layout_width="230dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="@color/loginuser"
+        android:drawableLeft="@drawable/ic_asset_username"
+        android:drawablePadding="20dp"
+        android:drawableStart="@drawable/ic_asset_username"
+        android:hint="Birthday"
+        android:textColorHint="@color/colorBackground"
+        android:paddingLeft="15dp" />
+
+    <EditText
+        android:textSize="15dp"
+        android:layout_width="230dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="@color/loginuser"
+        android:drawableLeft="@drawable/ic_asset_username"
+        android:drawablePadding="20dp"
+        android:drawableStart="@drawable/ic_asset_username"
+        android:hint="Region"
+        android:textColorHint="@color/colorBackground"
+        android:paddingLeft="15dp" />
+
+    <EditText
+        android:textSize="15dp"
+        android:layout_width="230dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="@color/loginuser"
+        android:drawableLeft="@drawable/ic_asset_username"
+        android:drawablePadding="20dp"
+        android:drawableStart="@drawable/ic_asset_username"
+        android:hint="Phone Number"
+        android:textColorHint="@color/colorBackground"
+        android:paddingLeft="15dp" />
+
+    <EditText
+        android:textSize="15dp"
+        android:layout_width="230dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="@color/loginuser"
+        android:drawableLeft="@drawable/ic_asset_username"
+        android:drawablePadding="20dp"
+        android:drawableStart="@drawable/ic_asset_username"
+        android:hint="Password"
+        android:textColorHint="@color/colorBackground"
+        android:paddingLeft="15dp"
+        android:inputType="textPassword"
+        android:id="@+id/editTextPassword" />
+
+    <EditText
+        android:textSize="15dp"
+        android:layout_width="230dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="@color/loginuser"
+        android:drawableLeft="@drawable/ic_asset_username"
+        android:drawablePadding="20dp"
+        android:drawableStart="@drawable/ic_asset_username"
+        android:hint="Re Password"
+        android:textColorHint="@color/colorBackground"
+        android:paddingLeft="15dp"
+        android:inputType="textPassword"
+        android:id="@+id/editTextRePassword" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center">
+
+        <RadioButton
+            android:id="@+id/iAgree"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_gravity="center"
+            android:text="I Agree With" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/iAgree"
+            android:paddingTop="1dp"
+            android:text="Term and Condition"
+            android:textColor="@color/btnlogin"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <Button
+        android:background="@drawable/bacgroundbtnregister"
+        android:layout_width="250dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/buttonRegister" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_marginTop="5dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:layout_gravity="center"
+                        android:text="@string/string_already_registered"
+                        android:id="@+id/AlreadyRegister"/>
+
+                    <TextView
+                        android:layout_marginLeft="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@id/AlreadyRegister"
+                        android:text="@string/button_login"
+                        android:textStyle="bold"
+                        android:textColor="@color/btnlogin"
+                        android:id="@+id/buttonLogin" />
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp">
+
+                <Button
+                    android:id="@+id/RegGoogle"
+                    android:layout_width="110dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/reggoogle"/>
+
+                <Button
+                    android:layout_marginLeft="30dp"
+                    android:id="@+id/RegFb"
+                    android:layout_toRightOf="@id/RegGoogle"
+                    android:layout_width="110dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/regfb"/>
+
+                </RelativeLayout>
+
+</LinearLayout>

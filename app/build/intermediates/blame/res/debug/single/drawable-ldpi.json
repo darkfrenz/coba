@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_asset_username.png",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_asset_username.png"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_lock_black_24dp.png",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_asset_password.png",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_asset_password.png"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_attach_money_black_24dp.png",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_person_black_24dp.png",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_power_settings_new_black_24dp.png",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_power_settings_new_black_24dp.png"
+    }
+]

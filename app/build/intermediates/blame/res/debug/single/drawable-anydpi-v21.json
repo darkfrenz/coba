@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_attach_money_black_24dp.xml",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_attach_money_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_power_settings_new_black_24dp.xml",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_power_settings_new_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_asset_password.xml",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_asset_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_asset_username.xml",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_asset_username.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_lock_black_24dp.xml",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\vwx\\.android\\build-cache\\84975755bca7b6ea00b2002d8dfc4624695849c6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\vwx\\.android\\build-cache\\84975755bca7b6ea00b2002d8dfc4624695849c6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    }
+]

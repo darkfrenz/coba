@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_logout.xml",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\src\\main\\res\\menu\\menu_logout.xml"
+    },
+    {
+        "merged": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\AndroidFix\\Android-Login-And-Registration-master\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:gravity="center">
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/rTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rName"
+            android:hint="@string/hint_name"
+            android:padding="10dp"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/rTextEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rEditEmail"
+            android:hint="@string/hint_email"
+            android:inputType="textEmailAddress"
+            android:padding="10dp"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/rTextPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rEditPassword"
+            android:hint="@string/hint_password"
+            android:inputType="textPassword"
+            android:padding="10dp"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/rTextUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rEditUsername"
+            android:hint="@string/hint_username"
+            android:padding="10dp"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/rTextRegion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rEditRegion"
+            android:hint="@string/hint_region"
+            android:padding="10dp"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/rTextPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rEditPhone"
+            android:hint="@string/hint_phone"
+            android:padding="10dp"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/register"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/white"
+        android:id="@+id/btnRegister"/>
+
+    <Button
+        android:id="@+id/btnLinkToLoginScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/btn_link_to_login"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp" />
+
+</LinearLayout>
