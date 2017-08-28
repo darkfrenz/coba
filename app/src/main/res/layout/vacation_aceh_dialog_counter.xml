@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="horizontal"
+    android:gravity="center_horizontal"
+    android:id="@+id/linear">
+
+    <Button
+        android:layout_marginTop="30dp"
+        android:id="@+id/kurang"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/active_dot"
+        android:text="-"
+        android:textSize="25dp"/>
+
+    <TextView
+        android:layout_margin="20dp"
+        android:id="@+id/jumlahPesanan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_marginTop="30dp"
+        android:id="@+id/tambah"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/active_dot"
+        android:text="+"
+        android:textSize="25dp"
+        />
+
+</LinearLayout>
+
+
+    <Button
+        android:layout_centerHorizontal="true"
+        android:id="@+id/dialogButtonOK"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:text=" Pesan Tiket "
+        android:layout_below="@+id/linear"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        />
+
+</RelativeLayout>

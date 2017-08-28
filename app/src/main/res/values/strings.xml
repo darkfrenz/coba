@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MyVG</string>
+    <string name="title_activity_menu_home">MenuHome</string>
+    <string name="title_activity_menu_login">MenuLogin</string>
+    <string name="title_activity_tempat_wisata">TempatWisata</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_enter_name">Enter your name</string>
+    <string name="string_choose_username">Choose your username</string>
+    <string name="string_choose_password">Choose your password</string>
+    <string name="string_enter_email">Enter your email</string>
+    <string name="button_register">Create an Account</string>
+
+    <string name="string_username">Enter Username</string>
+    <string name="textview_password">Enter Password</string>
+    <string name="string_user_login">LOG IN</string>
+
+    <string name="string_already_registered">Already Registered?</string>
+    <string name="button_login">LOGIN</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    //new login
+    <!--<string name="app_name">Android Login</string>-->
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_region">Region</string>
+    <string name="hint_phone">Phone</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="logout">logout</string>
+
+    <string name="change_password">Change Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+</resources>
